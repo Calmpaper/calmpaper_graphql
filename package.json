@@ -22,7 +22,7 @@
     "graphql-yoga": "^1.18.3",
     "isomorphic-unfetch": "^3.1.0",
     "js-crawler": "^0.3.21",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "log4js": "^6.3.0",
     "multer": "^1.4.2",
     "multer-s3": "^2.9.0",
